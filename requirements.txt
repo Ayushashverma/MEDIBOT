@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+Pillow
+langchain
+langchain-huggingface
+transformers
+torch
+sentencepiece
+python-dotenv
+faiss-cpu
