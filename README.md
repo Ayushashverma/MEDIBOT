@@ -1,6 +1,6 @@
-# 🩺 MEDIBOT - Intelligent Medical Chat Assistant
+# 🩺 MEDIMIND- Intelligent Medical Chat Assistant
 
-**MEDIBOT** is an AI-powered medical chatbot that helps users with health-related queries, symptom explanations, treatment insights, preventive care tips, and more. It also supports image-based medical detection (like skin conditions and X-rays).
+**MEDIMIND** is an AI-powered medical chatbot that helps users with health-related queries, symptom explanations, treatment insights, preventive care tips, and more. It also supports image-based medical detection (like skin conditions and X-rays).
 
 ---
 
